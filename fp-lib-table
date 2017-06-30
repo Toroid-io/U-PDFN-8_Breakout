@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name toroid-kicad)(type KiCad)(uri "$(KISYSMOD)/toroid-kicad.pretty")(options "")(descr ""))
+)
